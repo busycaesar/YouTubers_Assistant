@@ -1,4 +1,4 @@
-# YouTuber's Assistant (In Dev.)
+# YouTuber's Assistant
 
 ## Description
 
